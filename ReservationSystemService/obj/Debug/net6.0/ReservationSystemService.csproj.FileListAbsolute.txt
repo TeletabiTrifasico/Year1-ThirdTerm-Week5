@@ -1,0 +1,34 @@
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week5\ReservationSystemService\bin\Debug\net6.0\ReservationSystemService.deps.json
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week5\ReservationSystemService\bin\Debug\net6.0\ReservationSystemService.dll
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week5\ReservationSystemService\bin\Debug\net6.0\ReservationSystemService.pdb
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week5\ReservationSystemService\bin\Debug\net6.0\DAL.dll
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week5\ReservationSystemService\bin\Debug\net6.0\Model.dll
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week5\ReservationSystemService\bin\Debug\net6.0\DAL.pdb
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week5\ReservationSystemService\bin\Debug\net6.0\Model.pdb
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.csproj.AssemblyReference.cache
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.AssemblyInfoInputs.cache
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.AssemblyInfo.cs
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.csproj.CoreCompileInputs.cache
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.csproj.CopyComplete
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.dll
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week5\ReservationSystemService\obj\Debug\net6.0\refint\ReservationSystemService.dll
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.pdb
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week5\ReservationSystemService\obj\Debug\net6.0\ref\ReservationSystemService.dll
+C:\Users\hugoj\Documents\programming3-week5\programming3-week5\ReservationSystemService\bin\Debug\net6.0\ReservationSystemService.deps.json
+C:\Users\hugoj\Documents\programming3-week5\programming3-week5\ReservationSystemService\bin\Debug\net6.0\ReservationSystemService.dll
+C:\Users\hugoj\Documents\programming3-week5\programming3-week5\ReservationSystemService\bin\Debug\net6.0\ReservationSystemService.pdb
+C:\Users\hugoj\Documents\programming3-week5\programming3-week5\ReservationSystemService\bin\Debug\net6.0\DAL.dll
+C:\Users\hugoj\Documents\programming3-week5\programming3-week5\ReservationSystemService\bin\Debug\net6.0\Model.dll
+C:\Users\hugoj\Documents\programming3-week5\programming3-week5\ReservationSystemService\bin\Debug\net6.0\DAL.pdb
+C:\Users\hugoj\Documents\programming3-week5\programming3-week5\ReservationSystemService\bin\Debug\net6.0\Model.pdb
+C:\Users\hugoj\Documents\programming3-week5\programming3-week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.csproj.AssemblyReference.cache
+C:\Users\hugoj\Documents\programming3-week5\programming3-week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoj\Documents\programming3-week5\programming3-week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.AssemblyInfoInputs.cache
+C:\Users\hugoj\Documents\programming3-week5\programming3-week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.AssemblyInfo.cs
+C:\Users\hugoj\Documents\programming3-week5\programming3-week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.csproj.CoreCompileInputs.cache
+C:\Users\hugoj\Documents\programming3-week5\programming3-week5\ReservationSystemService\obj\Debug\net6.0\Reservat.7C9FAF04.Up2Date
+C:\Users\hugoj\Documents\programming3-week5\programming3-week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.dll
+C:\Users\hugoj\Documents\programming3-week5\programming3-week5\ReservationSystemService\obj\Debug\net6.0\refint\ReservationSystemService.dll
+C:\Users\hugoj\Documents\programming3-week5\programming3-week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.pdb
+C:\Users\hugoj\Documents\programming3-week5\programming3-week5\ReservationSystemService\obj\Debug\net6.0\ref\ReservationSystemService.dll
